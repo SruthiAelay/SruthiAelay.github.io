@@ -27,20 +27,20 @@
 
 I added a joke API and https://xkcd.com/info.0.json API to show an image, title, and details. I also used cookies to check if the user is visiting for the first time or has been here before, displaying the time and date of the previous visit.
 
-![ Figure 1 ](Images/Picture1.png)
+![ Portfolio screenshot ](Images/Picture1.png)
 
-![ Figure 2 ](Images/Picture2.png)
+![ Portfolio screenshot](Images/Picture2.png)
 
-![ Figure 3 ](Images/Picture3.png)
+![ Portfolio screenshot ](Images/Picture3.png)
 
-![ Figure 4 ](Images/Picture4.png)
+![ Portfolio screenshot ](Images/Picture4.png)
 
-![ Figure 5 ](Images/Picture5.png)
+![ Portfolio screenshot ](Images/Picture5.png)
 
-![ Figure 6 ](Images/Picture6.png)
+![Portfolio screenshot ](Images/Picture6.png)
 
-![ Figure 7 ](Images/Picture7.png)
+![ Portfolio screenshot ](Images/Picture7.png)
 
-![ Figure 8 ](Images/Picture8.png)
+![ Portfolio screenshot ](Images/Picture8.png)
 
-![ Figure 9 ](Images/Picture9.png)
+![ Lab Overviews ](Images/Picture9.png)
