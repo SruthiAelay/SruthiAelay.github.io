@@ -10,7 +10,7 @@
 ![Sruthi's Headshot](Images/Sruthi_Pic.jpeg)
 
 ## Repository Information
-### Repository's URL: [https://github.com/SruthiAelay/waph-bopparsr.git](https://github.com/SruthiAelay/waph-bopparsr.git)
+### Repository's URL: [https://github.com/SruthiAelay/SruthiAelay.github.io/tree/main](https://github.com/SruthiAelay/SruthiAelay.github.io/tree/main)
 ### This is a private repository which is used to store all the codes related to course Topics in Computer Systems. The structure of this repository is as mentioned below.
 
 # Project 1
@@ -19,7 +19,7 @@
 
  In Project 1, we'll take the opportunity to showcase our professional identity by deploying a website on Github. This website will serve as a virtual resume, presenting our skills, experiences, and achievements. To make it visually appealing and functional, we'll leverage various front-end technologies such as HTML, CSS, and JavaScript. This project not only focuses on the technical aspects but also incorporates non-technical elements, ensuring a well-rounded and comprehensive representation of our capabilities. It's a chance to create an impressive online presence that reflects both our expertise and personality.
 
- Link to Lab2 code : [https://github.com/SruthiAelay/SruthiAelay.github.io/tree/main](https://github.com/SruthiAelay/SruthiAelay.github.io/tree/main)
+ Link to Project code : [https://github.com/SruthiAelay/SruthiAelay.github.io/tree/main](https://github.com/SruthiAelay/SruthiAelay.github.io/tree/main)
 
  For this Project i have downloaded Resume themed bootstrap from [https://bootstrapmade.com/bootstrap-resume-cv-templates/](https://bootstrapmade.com/bootstrap-resume-cv-templates/) where in i have added and made changed according to the needs of my Resume and portfolio. It includes, my name, Photo, Educational and Experience background along with Projects. I have also included a link to previous lab's, Hackathons overview.
 
@@ -33,7 +33,7 @@ I added a joke API and https://xkcd.com/info.0.json API to show an image, title,
 
 ![ Portfolio screenshot ](Images/Picture3.png)
 
-![ Portfolio screenshot ](Images/Picture4.png)
+![ Page Tracker screenshot ](Images/Picture4.png)
 
 ![ Portfolio screenshot ](Images/Picture5.png)
 
